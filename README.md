@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오]([https://github.com/JungHyung2/gitio.io](https://subseonwoo.github.io/protpolioio.io/]))
+### 1. [포트폴리오](https://github.com/JungHyung2/gitio.io](https://subseonwoo.github.io/protpolioio.io/)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
@@ -24,7 +24,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명]([https://github.com/JungHyung2/gitio.io](https://github.com/subseonwoo/protpolioio.io/blob/ecd6d6978c775007da8c01c3fc41e18c89529e89/index.html#L21)) 참고
+>[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io](https://github.com/subseonwoo/protpolioio.io/blob/ecd6d6978c775007da8c01c3fc41e18c89529e89/index.html#L21) 참고
 
 ---
 
